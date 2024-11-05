@@ -1,5 +1,5 @@
-# System sound control using hand 
-# Using Mediapipeline for detecting hand
+""" This project leverages OpenCV, MediaPipe, and Pycaw to control system volume using hand gestures detected via webcam. By measuring the distance between thumb and index fingertips, 
+it translates finger movements into volume adjustments, providing a touchless, intuitive interface. Ideal for exploring computer vision and gesture-based control applications """
 
 
 import cv2
